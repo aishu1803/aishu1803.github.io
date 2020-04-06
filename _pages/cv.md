@@ -25,16 +25,18 @@ Work experience
 * Jan 2017 - August 2018: Research Fellow
   * Agency for Science, Technology and Research, Singapore
   * Duties included: Building statistical models to understand neural activity underlying short term memory, visualize results, communicate the insights from the data analysis to relevant stakeholders, present results in conferences. 
-  * Supervisor: Professor Hub
+  * Supervisor: Dr. Camilo Libedinsky & Dr. Yen Shih-Cheng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Designing Experiments to collect relevant data
+* Statistical modelling and Machine Learning
+  * Linear Regression
+  * Principal Component Analysis
+  * Linear Discriminant Analysis
+  * Support Vector Machine
+  * Factor Analysis	
+* Programming in Python and MATLAB
 
 Publications
 ======
