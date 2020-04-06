@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical Engineering, National Institute of Technology, India, 2009
+* M.S. in Electrical Engineering, University of Florida, USA, 2011
+* Ph.D in Computational Cognitive Neuroscience, National University of Singapore, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct 2018 to Present: Research Fellow
+  * Netherlands Institute for Neuroscience, Amsterdam, The Netherlands
+  * Duties included: Designing experiments to understand Decision making, Data-driven approach to understanding neural mechanisms underlying decision making, Data Wrangling, Data Analysis, Data Visualization, delivering bespoke analysis to relevant stakeholders.
+  * Supervisor: Dr. Ingo Willuhn
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Jan 2017 - August 2018: Research Fellow
+  * Agency for Science, Technology and Research, Singapore
+  * Duties included: Building statistical models to understand neural activity underlying short term memory, visualize results, communicate the insights from the data analysis to relevant stakeholders, present results in conferences. 
   * Supervisor: Professor Hub
   
 Skills
