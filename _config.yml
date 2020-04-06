@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aishu Parthasarathy"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Research Fellow at the Academic Medisch Centrum. Problem solver. Data Wrangler. Data Scientist."
   location         : "Amsterdam, The Netherlands"
   employer         :
