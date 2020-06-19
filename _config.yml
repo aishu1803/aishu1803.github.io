@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Aishu Parthasarathy"
   avatar           : "profile.png"
-  bio              : "Research Fellow at the Academic Medisch Centrum studying the role of prefrontal cortex in decision making."
+  bio              : "Research Fellow studying the role of prefrontal cortex in decision making."
   location         : "Amsterdam, The Netherlands"
+
   employer         :
   #pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Aishwarya+Parthasarathy"
   googlescholar    : "https://scholar.google.com/citations?user=frf5-goAAAAJ&hl=en"
@@ -109,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : "https://twitter.com/aishu1803"
   vine             :
   weibo            :
   xing             :
