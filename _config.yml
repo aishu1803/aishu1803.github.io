@@ -13,7 +13,7 @@ name                     : &name "Aishu Parthasarathy"
 description              : &description "Behavioral and Computational Neuroscientist"
 url                      : https://aishu1803.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aishu1803.github.io"
+repository               : aishu1803/aishu1803.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dirt" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aishu Parthasarathy"
   avatar           : "profile.png"
-  bio              : "Research Fellow studying the role of prefrontal cortex in decision making."
+  bio              : "Research Fellow studying the role of prefrontal cortex in flexible behavior."
   location         : "Amsterdam, The Netherlands"
 
   employer         :
