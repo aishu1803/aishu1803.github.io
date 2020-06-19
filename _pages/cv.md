@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech. in Electrical Engineering, National Institute of Technology, India, 2009
 * M.S. in Electrical Engineering, University of Florida, USA, 2011
-* Ph.D in Computational Cognitive Neuroscience, National University of Singapore, 2017
+* Ph.D in Cognitive Neuroscience, National University of Singapore, 2017
 
 Work experience
 ======
@@ -58,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
